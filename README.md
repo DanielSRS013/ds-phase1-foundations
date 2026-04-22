@@ -13,7 +13,7 @@ Study repository for Phase 1 of my Data Science journey.
 | Statistics & Probability | Think Stats · Bussab & Morettin · ISLR | 🟡 In progress |
 | Python / NumPy / Pandas | Python for Data Analysis · Fluent Python | 🟡 In progress |
 | SQL | SQL for Data Scientists · Learning SQL | ⬜ Upcoming |
-| Linear Algebra & Calculus | Math for ML · Strang MIT | ⬜ Upcoming |
+| Linear Algebra & Calculus | Math for ML · Strang MIT | 🟡 In progres |
 
 ## Structure
 
